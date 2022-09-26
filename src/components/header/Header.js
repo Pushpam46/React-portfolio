@@ -17,7 +17,7 @@ function Header() {
             <HeadeSocial />
 
             <div className='me'>
-                <img className='me__img' src={ME}/>
+                <img className='me__img' src={ME} alt='profileImage'/>
             </div>
 
             <a href='#contact' className='scroll__down'>Scroll Down</a>
