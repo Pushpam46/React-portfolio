@@ -17,19 +17,19 @@ function Contact() {
             <MdOutlineEmail className='contact__option-icon'/>
             <h4>Email</h4>
             <h5>Demo@gmail.com</h5>
-            <a href=''>Send a message</a>
+            <a href='#'>Send a message</a>
           </article>
           <article className='contact__option'>
             <RiMessengerLine className='contact__option-icon'/>
             <h4>Messenger</h4>
             <h5>Demo Application</h5>
-            <a href=''>Send a message</a>
+            <a href='#'>Send a message</a>
           </article>
           <article className='contact__option'>
             <BsWhatsapp className='contact__option-icon'/>
             <h4>WhatsApp</h4>
             <h5>1234567890</h5>
-            <a href=''>Send a message</a>
+            <a href='#'>Send a message</a>
           </article>
         </div>
 
